@@ -5,7 +5,7 @@
 
 <img src="ryan-haight-greenstairs.gif" width="285" align="right"/>
 
-Olá, sou **Gabriel Anthoni Rodrigues Freire**,
+Olá, sou **Gabriel Anthoni Rodrigues Freire**,<br>
 sou estudante de **Análise e Desenvolvimento de Sistemas**  
 na **UNIPÊ** (Centro Universitário de João Pessoa),<br>
 Estou em busca de novos desafios para aprender cada vez mais.
