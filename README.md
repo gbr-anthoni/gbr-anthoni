@@ -19,14 +19,14 @@ Estou em busca de novos desafios para aprender cada vez mais.
 
 <h3>📫 Contatos:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/gabriel-anthoni-85a93b376/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a><a href="mailto:gba.rfreire@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-anthoni/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a><a href="mailto:gba.rfreire@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
 </p>
 
 <hr>
 <h3 align="center">📊 GitHub Stats:</h3>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gbr-anthoni&show_icons=true&count_private=true&hide_border=true&title_color=00FA9A&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-anthoni&layout=compact&hide_border=true&title_color=00FA9A&text_color=ffffff&bg_color=0d1117" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbr-anthoni&hide_border=true&title_color=00FA9A&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gbr-anthoni&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
